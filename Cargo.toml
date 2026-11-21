@@ -1,11 +1,12 @@
 [package]
 name = "mirl_std_exposed"
-version = "0.0.0"
+version = "0.0.0-alpha"
 edition = "2024"
-readme.workspace = true
-repository.workspace = true
+repository = "https://github.com/Miner3D-Gamer/mirl_std_exposed"
 license.workspace = true
 authors.workspace = true
+rust-version.workspace = true
+maintenance.workspace = true
 
 [dependencies]
 
